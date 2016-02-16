@@ -1,0 +1,1586 @@
+2016/01/28 11:21:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/01/28 11:21:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/01/28 11:21:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/01/28 11:21:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/01/28 11:21:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/01/28 11:21:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/01/28 11:21:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/01/28 11:21:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/01/28 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/site/success
+---
+2016/01/28 11:21:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/site/success
+---
+2016/01/28 11:22:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/site/success
+---
+2016/01/28 11:22:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/site/success
+---
+2016/01/28 11:22:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/01/28 11:22:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/01/28 11:22:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/site/success
+---
+2016/01/28 11:22:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/site/success
+---
+2016/02/04 10:14:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:14:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:15:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:15:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:15:17 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:17:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/index.php
+---
+2016/02/04 10:17:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/index.php
+---
+2016/02/04 10:17:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/02/04 10:17:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/user/index
+---
+2016/02/04 10:17:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/04 10:17:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:36:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:36:00 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:39:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:39:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:39:36 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:42:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/fonts/glyphicons-halflings-regular.woff2".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/fonts/glyphicons-halflings-regular.woff2
+HTTP_REFERER=http://localhost/yii1/themes/default/assets/bootstrap.min.css
+---
+2016/02/12 08:42:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/fonts/glyphicons-halflings-regular.woff".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/fonts/glyphicons-halflings-regular.woff
+HTTP_REFERER=http://localhost/yii1/themes/default/assets/bootstrap.min.css
+---
+2016/02/12 08:42:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/fonts/glyphicons-halflings-regular.ttf".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/fonts/glyphicons-halflings-regular.ttf
+HTTP_REFERER=http://localhost/yii1/themes/default/assets/bootstrap.min.css
+---
+2016/02/12 08:45:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/12 08:45:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:45:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:46:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/fonts/glyphicons-halflings-regular.woff2".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/fonts/glyphicons-halflings-regular.woff2
+HTTP_REFERER=http://localhost/yii1/themes/default/assets/bootstrap.min.css
+---
+2016/02/12 08:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/fonts/glyphicons-halflings-regular.woff".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/fonts/glyphicons-halflings-regular.woff
+HTTP_REFERER=http://localhost/yii1/themes/default/assets/bootstrap.min.css
+---
+2016/02/12 08:47:06 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/fonts/glyphicons-halflings-regular.ttf".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/fonts/glyphicons-halflings-regular.ttf
+HTTP_REFERER=http://localhost/yii1/themes/default/assets/bootstrap.min.css
+---
+2016/02/12 08:47:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:47:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:47:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/12 08:50:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/12 08:50:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/pul.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/pul.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:50:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/error.css".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/error.css
+HTTP_REFERER=http://localhost/yii1/
+---
+2016/02/12 08:50:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/12 08:51:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/15 15:10:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/15 15:10:51 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/15 15:10:59 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/default/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/default/...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/default/assets/bootstrap.min.css.map
+---
+2016/02/15 15:37:54 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/admin/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/admin/as...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/admin/assets/bootstrap.min.css.map
+---
+2016/02/15 15:38:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/admin/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/admin/as...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/admin/assets/bootstrap.min.css.map
+---
+2016/02/15 15:44:04 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): DocumentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): DocumentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php(190): DocumentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): DocumentController->actionIndex()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): DocumentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): DocumentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): DocumentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): DocumentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=document
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php (190)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:09 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(82): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (82)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:12 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): DocumentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): DocumentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php(100): DocumentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): DocumentController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): DocumentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): DocumentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): DocumentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): DocumentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=document/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php (100)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:15 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): KindController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): KindController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php(80): KindController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): KindController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): KindController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): KindController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): KindController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): KindController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=kind/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php (80)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:17 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): QaController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): QaController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\QaController.php(153): QaController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): QaController->actionIndex()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): QaController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): QaController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): QaController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): QaController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=qa
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\QaController.php (153)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:22 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(82): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (82)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:24 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): DocumentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): DocumentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php(100): DocumentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): DocumentController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): DocumentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): DocumentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): DocumentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): DocumentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=document/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php (100)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:27 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(169): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionIndex()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (169)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:34 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): DocumentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): DocumentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php(190): DocumentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): DocumentController->actionIndex()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): DocumentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): DocumentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): DocumentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): DocumentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=document
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php (190)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:44:46 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php:89)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs()
+#1 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#10 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#14 unknown(0): WebApplicationEndBehavior->runEnd()
+#15 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#16 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#17 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=name/content/admin&name=Lam+Thi
+in C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php (89)
+in C:\xampp\htdocs\yii1\protected\modules\name\controllers\ContentController.php (101)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:54:25 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(169): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionIndex()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (169)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 15:54:32 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(26): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(169): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionIndex()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (26)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (169)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 16:03:06 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(23): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(82): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (23)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (82)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 16:04:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/admin/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/admin/as...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/admin/assets/bootstrap.min.css.map
+---
+2016/02/15 16:09:28 [error] [php] include(UserInfoController.php): failed to open stream: No such file or directory (C:\xampp\htdocs\yii1\framework\YiiBase.php:432)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php(22): spl_autoload_call()
+#1 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require()
+#2 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): ContentController->renderInternal()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(784): ContentController->renderFile()
+#4 C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php(82): ContentController->render()
+#5 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): ContentController->actionCreate()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#10 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#11 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#13 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#14 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#15 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#16 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#17 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#18 unknown(0): WebApplicationEndBehavior->runEnd()
+#19 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#20 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#21 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=content/create
+in C:\xampp\htdocs\yii1\themes\admin\views\layouts\main.php (22)
+in C:\xampp\htdocs\yii1\protected\controllers\back\ContentController.php (82)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 16:09:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/admin/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/admin/as...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/admin/assets/bootstrap.min.css.map
+---
+2016/02/15 16:13:03 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php:89)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs()
+#1 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#10 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#14 unknown(0): WebApplicationEndBehavior->runEnd()
+#15 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#16 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#17 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=name/content/admin&name=Lam+Thi
+in C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php (89)
+in C:\xampp\htdocs\yii1\protected\modules\name\controllers\ContentController.php (101)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 16:13:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/admin/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/admin/as...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/admin/assets/bootstrap.min.css.map
+---
+2016/02/15 16:19:42 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii1\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#9 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('userinfo/view')
+#10 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#12 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#13 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#14 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#15 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#16 {main}
+REQUEST_URI=/yii1/backend.php?r=userinfo/view
+HTTP_REFERER=http://localhost/yii1/backend.php
+---
+2016/02/15 16:19:50 [error] [exception.CHttpException.430] exception 'CHttpException' with message 'you have not permisson to access that request.' in C:\xampp\htdocs\yii1\protected\controllers\back\UserInfoController.php:62
+Stack trace:
+#0 [internal function]: UserInfoController->actionView('2')
+#1 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(UserInfoController), Array)
+#2 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(UserInfoController), Object(ReflectionMethod), Array)
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#10 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#11 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#12 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('userinfo/view')
+#13 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#14 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#15 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#16 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#17 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#18 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#19 {main}
+REQUEST_URI=/yii1/backend.php?r=userinfo/view&id=2
+---
+2016/02/15 16:23:17 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\yii1\protected\controllers\back\UserInfoController.php:56)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#1 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#2 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): UserInfoController->runAction()
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#4 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): UserInfoController->filterAccessControl()
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#8 C:\xampp\htdocs\yii1\framework\web\CController.php(265): UserInfoController->runActionWithFilters()
+#9 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): UserInfoController->run()
+#10 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#11 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#12 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#13 unknown(0): WebApplicationEndBehavior->runEnd()
+#14 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#15 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#16 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=userinfo/view&&id=17
+in C:\xampp\htdocs\yii1\protected\controllers\back\UserInfoController.php (56)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+in C:\xampp\htdocs\yii1\backend.php (10)
+2016/02/15 16:30:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "themes/admin/assets/bootstrap.min.css.map".' in C:\xampp\htdocs\yii1\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('themes/admin/as...')
+#1 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#3 [internal function]: WebApplicationEndBehavior->runEnd('front')
+#4 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#5 C:\xampp\htdocs\yii1\index.php(11): CComponent->__call('runEnd', Array)
+#6 C:\xampp\htdocs\yii1\index.php(11): CWebApplication->runEnd('front')
+#7 {main}
+REQUEST_URI=/yii1/themes/admin/assets/bootstrap.min.css.map
+---
+2016/02/15 16:41:29 [error] [system.db.CDbCommand] CDbCommand::fetch() failed: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '::app()->user->getid() LIMIT 1' at line 1. The SQL statement executed was: SELECT * FROM `subject` `t` WHERE id_user=Yii::app()->user->getid() LIMIT 1.
+in C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php (68)
+in C:\xampp\htdocs\yii1\themes\admin\views\document\_form.php (28)
+in C:\xampp\htdocs\yii1\themes\admin\views\document\create.php (20)
+2016/02/15 16:41:29 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '::app()->user->getid() LIMIT 1' at line 1. The SQL statement executed was: SELECT * FROM `subject` `t` WHERE id_user=Yii::app()->user->getid() LIMIT 1' in C:\xampp\htdocs\yii1\framework\db\CDbCommand.php:543
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\db\CDbCommand.php(415): CDbCommand->queryInternal('fetch', Array, Array)
+#1 C:\xampp\htdocs\yii1\framework\db\ar\CActiveRecord.php(1356): CDbCommand->queryRow()
+#2 C:\xampp\htdocs\yii1\framework\db\ar\CActiveRecord.php(1461): CActiveRecord->query(Object(CDbCriteria))
+#3 C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php(68): CActiveRecord->find(Array)
+#4 C:\xampp\htdocs\yii1\themes\admin\views\document\_form.php(28): DocumentController->getsubject()
+#5 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#8 C:\xampp\htdocs\yii1\themes\admin\views\document\create.php(20): CController->renderPartial('_form', Array)
+#9 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(126): require('C:\\xampp\\htdocs...')
+#10 C:\xampp\htdocs\yii1\framework\web\CBaseController.php(95): CBaseController->renderInternal('C:\\xampp\\htdocs...', Array, true)
+#11 C:\xampp\htdocs\yii1\framework\web\CController.php(869): CBaseController->renderFile('C:\\xampp\\htdocs...', Array, true)
+#12 C:\xampp\htdocs\yii1\framework\web\CController.php(782): CController->renderPartial('create', Array, true)
+#13 C:\xampp\htdocs\yii1\protected\controllers\back\DocumentController.php(100): CController->render('create', Array)
+#14 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(49): DocumentController->actionCreate()
+#15 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#16 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#17 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#18 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#19 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#20 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#21 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#22 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#23 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('create')
+#24 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('document/create')
+#25 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#26 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#27 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#28 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#29 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#30 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#31 {main}
+REQUEST_URI=/yii1/backend.php?r=document/create
+HTTP_REFERER=http://localhost/yii1/backend.php
+---
+2016/02/15 16:46:03 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php:89)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs()
+#1 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#10 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#14 unknown(0): WebApplicationEndBehavior->runEnd()
+#15 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#16 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#17 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=name/content/admin&name=Lam+Thi
+in C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php (89)
+in C:\xampp\htdocs\yii1\protected\modules\name\controllers\ContentController.php (101)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/15 16:46:30 [error] [php] Trying to get property of non-object (C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php:89)
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs()
+#1 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CInlineAction->runWithParamsInternal()
+#2 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams()
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): ContentController->runAction()
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#5 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CAccessControlFilter->filter()
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): ContentController->filterAccessControl()
+#7 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter()
+#8 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#9 C:\xampp\htdocs\yii1\framework\web\CController.php(265): ContentController->runActionWithFilters()
+#10 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): ContentController->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController()
+#12 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#13 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CWebApplication->run()
+#14 unknown(0): WebApplicationEndBehavior->runEnd()
+#15 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array()
+#16 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->__call()
+#17 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd()
+REQUEST_URI=/yii1/backend.php?r=name/content/admin&name=Lam+Thi
+in C:\xampp\htdocs\yii1\protected\controllers\back\UserController.php (89)
+in C:\xampp\htdocs\yii1\protected\modules\name\controllers\ContentController.php (101)
+in C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php (25)
+2016/02/16 04:54:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin\".' in C:\xampp\htdocs\yii1\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CController.php(270): CController->missingAction('admin\\')
+#1 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('admin\\')
+#2 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/admin\\')
+#3 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#6 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#8 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#9 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/admin\
+---
+2016/02/16 04:55:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in C:\xampp\htdocs\yii1\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CController.php(270): CController->missingAction('admin')
+#1 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('admin')
+#2 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/admin')
+#3 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#6 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#8 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#9 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/admin
+---
+2016/02/16 04:55:43 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii1\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#9 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/view')
+#10 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#12 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#13 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#14 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#15 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#16 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/view
+---
+2016/02/16 04:55:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php(50): KindController->loadModel('3')
+#1 [internal function]: KindController->actionView('3')
+#2 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(KindController), Array)
+#3 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(KindController), Object(ReflectionMethod), Array)
+#4 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#13 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/view')
+#14 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#16 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#17 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#18 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#19 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#20 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/view&id=3
+---
+2016/02/16 04:56:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php(50): KindController->loadModel('1')
+#1 [internal function]: KindController->actionView('1')
+#2 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(KindController), Array)
+#3 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(KindController), Object(ReflectionMethod), Array)
+#4 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#13 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/view')
+#14 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#16 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#17 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#18 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#19 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#20 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/view&id=1
+---
+2016/02/16 04:56:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The requested page does not exist.' in C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php:170
+Stack trace:
+#0 C:\xampp\htdocs\yii1\protected\controllers\back\KindController.php(50): KindController->loadModel('3')
+#1 [internal function]: KindController->actionView('3')
+#2 C:\xampp\htdocs\yii1\framework\web\actions\CAction.php(109): ReflectionMethod->invokeArgs(Object(KindController), Array)
+#3 C:\xampp\htdocs\yii1\framework\web\actions\CInlineAction.php(47): CAction->runWithParamsInternal(Object(KindController), Object(ReflectionMethod), Array)
+#4 C:\xampp\htdocs\yii1\framework\web\CController.php(308): CInlineAction->runWithParams(Array)
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#6 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#8 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#11 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#13 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/view')
+#14 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#15 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#16 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#17 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#18 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#19 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#20 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/view&id=3
+---
+2016/02/16 04:56:04 [error] [exception.CHttpException.400] exception 'CHttpException' with message 'Your request is invalid.' in C:\xampp\htdocs\yii1\framework\web\CController.php:336
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CController.php(309): CController->invalidActionParams(Object(CInlineAction))
+#1 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(133): CController->runAction(Object(CInlineAction))
+#2 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(40): CFilterChain->run()
+#3 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#7 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#8 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('view')
+#9 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/view')
+#10 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#11 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#12 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#13 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#14 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#15 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#16 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/view
+---
+2016/02/16 04:56:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "admin".' in C:\xampp\htdocs\yii1\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\CController.php(270): CController->missingAction('admin')
+#1 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('admin')
+#2 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('kind/admin')
+#3 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#5 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#6 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#8 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#9 {main}
+REQUEST_URI=/yii1/backend.php?r=kind/admin
+---
+2016/02/16 04:56:36 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in C:\xampp\htdocs\yii1\framework\web\auth\CAccessControlFilter.php:182
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\auth\CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(WebUser), 'You are not aut...')
+#1 C:\xampp\htdocs\yii1\framework\web\filters\CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 C:\xampp\htdocs\yii1\framework\web\CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#6 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('admin')
+#8 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('subject/admin')
+#9 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#10 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#11 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#12 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#13 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#14 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#15 {main}
+REQUEST_URI=/yii1/backend.php?r=subject/admin
+---
+2016/02/16 04:57:34 [error] [exception.CException] exception 'CException' with message 'Property "CAccessRule.role" is not defined.' in C:\xampp\htdocs\yii1\framework\base\CComponent.php:173
+Stack trace:
+#0 C:\xampp\htdocs\yii1\framework\web\auth\CAccessControlFilter.php(115): CComponent->__set('role', Array)
+#1 C:\xampp\htdocs\yii1\framework\web\CController.php(1144): CAccessControlFilter->setRules(Array)
+#2 C:\xampp\htdocs\yii1\framework\web\filters\CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#3 C:\xampp\htdocs\yii1\framework\web\filters\CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#4 C:\xampp\htdocs\yii1\framework\web\CController.php(291): CFilterChain->run()
+#5 C:\xampp\htdocs\yii1\framework\web\CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(282): CController->run('admin')
+#7 C:\xampp\htdocs\yii1\framework\web\CWebApplication.php(141): CWebApplication->runController('subject/admin')
+#8 C:\xampp\htdocs\yii1\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#9 C:\xampp\htdocs\yii1\protected\components\WebApplicationEndBehavior.php(25): CApplication->run()
+#10 [internal function]: WebApplicationEndBehavior->runEnd('back')
+#11 C:\xampp\htdocs\yii1\framework\base\CComponent.php(261): call_user_func_array(Array, Array)
+#12 C:\xampp\htdocs\yii1\backend.php(10): CComponent->__call('runEnd', Array)
+#13 C:\xampp\htdocs\yii1\backend.php(10): CWebApplication->runEnd('back')
+#14 {main}
+REQUEST_URI=/yii1/backend.php?r=subject/admin
+---
