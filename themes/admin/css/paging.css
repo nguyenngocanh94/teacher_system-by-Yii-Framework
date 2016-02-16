@@ -1,0 +1,27 @@
+body {
+ body {
+     background: #dfdfdf;
+     color: #666;
+     font: 14px/24px sans-serif;
+ }
+  
+ #container {
+     width: 600px;
+     margin: 0 auto;
+     padding: 20px;
+ }
+  
+ .btn {
+     display: inline-block;
+     padding: 10px;
+     border-radius: 5px; /*optional*/
+     color: #aaa;
+     font-size: .875em;
+ }
+  
+ .pagination {
+     background: #f2f2f2;
+     padding: 20px;
+     margin-bottom: 20px;
+ }
+  
