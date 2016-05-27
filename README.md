@@ -1,5 +1,4 @@
-# yii1
-Teacher system in web service
+# Teacher system in web service
 
 My report in Vietnamese
 
